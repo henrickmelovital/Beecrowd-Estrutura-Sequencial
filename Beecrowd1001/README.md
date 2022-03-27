@@ -11,5 +11,5 @@ Exemplos de Entrada:
 10   
 9
 
-Exemplos de Saída:
+Exemplos de Saída: 
 X = 19
