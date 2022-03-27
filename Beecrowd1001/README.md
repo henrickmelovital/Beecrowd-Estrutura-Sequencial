@@ -10,7 +10,6 @@ Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X
 Exemplos de Entrada:
 
 10
-
 9
 
 Exemplos de Saída:
